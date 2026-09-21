@@ -4,7 +4,9 @@ A small web application for recording food stall inspections. It helps an inspec
 
 ## Screenshots
 
-Screenshots are not included in this repository yet.
+### Inspection form
+
+![Food inspection form](screenshots/inspection-form.png)
 
 ## Key Features
 
